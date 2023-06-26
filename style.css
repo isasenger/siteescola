@@ -1,3 +1,7 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho{
     background-color: #383d58;
     color: white;
@@ -28,4 +32,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 24px 0;
+}
+.escola-titulo{
+    padding: 24px 0;
+     
 }
